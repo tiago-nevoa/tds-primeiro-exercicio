@@ -5,13 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ff28f37b-87e2-47ac-a5f3-83f889770241" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/kotlin/Column.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Column.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/kotlin/isel/leic/tds/checkers/model/TestColumn.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/kotlin/isel/leic/tds/checkers/model/TestColumn.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/kotlin/isel/leic/tds/checkers/model/TestRow.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/kotlin/isel/leic/tds/checkers/model/TestRow.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/kotlin/isel/leic/tds/checkers/model/TestSquare.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/kotlin/isel/leic/tds/checkers/model/TestSquare.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,7 +58,7 @@
     "JUnit.TestColumn.Symbol to Column conversion with check.executor": "Run",
     "JUnit.TestColumn.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "column",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
