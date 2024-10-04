@@ -19,6 +19,7 @@ class TestColumn {
         val ex = assertFailsWith<IllegalArgumentException> { Column(index) }
         assertEquals("Invalid column index: $index", ex.message)
     }
+
     @Test fun `Symbol to Column conversion with check`() {
         val sut: Column? = 'c'.toColumnOrNull()
         assertNotNull(sut)
